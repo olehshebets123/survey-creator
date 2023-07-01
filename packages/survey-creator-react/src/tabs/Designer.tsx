@@ -9,6 +9,8 @@ import { CreatorBase, TabDesignerViewModel } from "survey-creator-core";
 import { SurveyPageNavigator } from "../PageNavigator";
 import { SurveyNavigation } from "../Navigation";
 
+export const TestLala = "Ilia mashina"
+
 interface ITabDesignerComponentProps {
   data: TabDesignerViewModel;
 }
